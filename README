@@ -1,0 +1,30 @@
+= masm_samples
+
+Author:: Martin Velez
+Copyright:: Copyright (c) 2011 Martin Velez
+License:: ?
+
+== Description
+
+MASM32[http://www.masm32.com/] is a 32-bit assembler which comes with an 
+"extensive range of macros" for "faster development."
+
+These are some sample programs I wrote to learn how to use it. 
+
+== Installation
+Simply download any of the sample programs in these repositories.
+
+== Usage
+1. Download a sample program (sample[0-9].asm)
+2. Assemble it!
+
+== Development
+
+=== Source Repository
+ida_decode is hosted at: 
+ https://github.com/martinvelez/masm_samples
+
+=== Issues and Bug Reports
+Provide feedback, get help, request features, and reports bugs here:
+ https://github.com/martinvelez/masm_samples/issues
+
